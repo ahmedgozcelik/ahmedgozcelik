@@ -4,9 +4,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedgozcelik&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgozcelik&theme=dracula" alt="GitHub Streak Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgozcelik&layout=compact&theme=dracula" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetgozcelik&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetgozcelik&theme=dracula" alt="GitHub Streak Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetgozcelik&layout=compact&theme=dracula" alt="Top Languages" height="150" />
 </div>
 
 <h2 align="center">Languages and Tools</h2>
